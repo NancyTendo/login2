@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #FFFFFF;
+    background-position: center;
+}
+form{
+    background: #FFFFFF;  
+    width: 400px;
+    border: 1px solid #F90E0E;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    margin: 100px auto;
+    
+}
+header{
+    background: #4BA2EF;
+    border: 1px solid #707070;
+    border-radius: 0.5em;
+    margin: 0.5em auto;
+    max-width: 250px;
+    padding: 0.25em;
+    text-align: center;
+    font-weight: 'Segoe UI Emoji';
+}
+nav{
+    background: #C4CBD4;
+    border: 1px solid #707070;
+    border-radius: 0.5em;
+    margin: 0.5em auto;
+    max-width: 250px;
+    padding: 0.25em;
+    text-align: center;
+    font-weight: 'Segoe UI Emoji';
+    text-shadow: 5px 5px 10px rgba(255,255,255,0.9);
+}
+from h1{
+    text-align: center;
+    color: aqua;
+    font-weight: normal;
+    font-size: 40pt;
+    margin: 30px 0px;
+    font-weight: 'Segoe UI Emoji';
+}   
+from input{
+    width: 280px;
+    height: 35px;
+    padding: 0px 10px;
+    color: #F90E0E;
+    text-align: center;
+}
+form button{
+    width: 135px;
+    margin: 20px 0px 30px 30px;
+    height: 50px;
+    
+}
+button {
+    background-color: #3B5998; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  p{
+    color: rgb(8, 4, 2);
+    margin: 0.25em auto;
+    text-align: center;
+    /*sombre*/
+    text-shadow: 5px 5px 10px rgba(255,255,255,0.10);
+}
+b{
+    color: #FFFFFF;
+    margin: 0.25em auto;
+    text-align: center;
+    /*sombre*/
+    text-shadow: 5px 5px 10px rgba(255,255,255,0.7);
+}
